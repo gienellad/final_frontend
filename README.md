@@ -1,4 +1,4 @@
-# 🎫 PH Event Hub - Employee Ticketing System
+# 🎫 PH Event Hub -  Ticketing System
 
 Isang modernong Event Management at Ticketing System na binuo gamit ang **Nuxt 3** at **Vuetify 3**, na may integration sa **Strapi CMS**. Ang system na ito ay dinisenyo para sa mga employees upang mapamahalaan ang mga events, reservations, at attendance nang mabilis at secured.
 
